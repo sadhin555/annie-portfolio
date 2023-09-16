@@ -1,7 +1,7 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/sadhin555/annie-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/sadhin555/annie?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/sadhin555/annie-portfolio?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/sadhin555/annie?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sadhin555_?style=social)](https://twitter.com/intent/follow?screen_name=sadhin555_)
 
